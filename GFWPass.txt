@@ -1,0 +1,478 @@
+[SwitchyOmega Conditions]
+; Require: ZeroOmega or SwitchyOmega >= 2.3.2
+; Update Date: 2024/12/07
+
+; 局域网 IP 不走代理
+10.*.*.*
+100.64.*.*
+127.*.*.*
+172.16.*.*
+192.168.*.*
+
+; .cn 域名不走代理
+*.cn
+
+; 10010 中国联通
+*.10010.com
+
+; 10086 中国移动
+*.139.com
+*.migucloud.com
+*.miguvideo.com
+
+; 115
+*.115.com
+*.115cdn.com
+*.115cdn.net
+*.115img.com
+*.116cd.com
+*.116cd.net
+*.anxia.com
+*.sq.cc
+
+; 17k 小说
+*.17k.com
+
+; 360 安全
+*.360.com
+*.360kuai.com
+*.360safe.com
+*.dhrest.com
+*.qhres.com
+*.qhstatic.com
+*.qhupdate.com
+*.so.com
+
+; 4399 小游戏
+*.4399.com
+*.4399pk.com
+*.5054399.com
+*.img4399.com
+
+; 36kr 36氪
+*.36dianping.com
+*.36kr.com
+*.36krcdn.com
+*.36krcnd.com
+
+; 51job 前程无忧
+*.51job.com
+*.51jobcdn.com
+*.yingjiesheng.com
+*.yingjiesheng.net
+
+; 58 同城
+*.anjuke.com
+*.anjukestatic.com
+*.ganji.com
+*.ganjistatic1.com
+*.58.com
+*.58che.com
+*.chinahr.com
+*.daojia.com
+*.diandao.org
+*.fang.com
+*.zhuanzhuan.com
+
+; alibaba 阿里巴巴
+*.1688.com
+*.alibabadns.com
+*.alicdn.com
+*.alicloudapi.com
+*.alidns.com
+*.alikunlun.com
+*.aliyun-iot-share.com
+*.aliyun.com
+*.aliyuncs.com
+*.aliyuncdn.com
+*.aliyunfile.com
+*.ant.design
+*.antgroup.com
+*.antv.vision
+*.myalicdn.com
+
+; dingtalk 钉钉
+*.dingtalk.com
+
+; alipay 支付宝
+*.alipay.com
+
+; taobao 淘宝
+*.taobao.com
+*.taobaocdn.com
+*.tbcache.com
+*.tbcdn.com
+*.tmall.com
+
+; youku 优酷
+*.youku.com
+*.ykimg.com
+
+; amap 高德地图
+*.amap.com
+*.amapauto.com
+*.gaode.com
+
+; antutu 安兔兔
+*.antutu.com
+
+; apple 苹果
+*.apple-cloudkit.com
+*.apple.com
+*.appstore.com
+
+; baidu 百度
+*.baidu.com
+*.baidubcr.com
+*.baiducontent.com
+*.baidupan.com
+*.baidupcs.com
+*.baidustatic.com
+*.baiduwp.com
+*.baiduyundns.com
+*.baiduyundns.net
+*.baike.com
+*.bdimg.com
+*.bdstatic.com
+*.tieba.com
+
+; bank 银行
+*.ccb.com
+
+; bosszhipin boss 直聘
+*.bosszhipin.com
+
+; bilibili 哔哩哔哩 B站
+*.bilibili.com
+*.biligame.com
+*.hdslb.com
+
+; bytedance 字节跳动
+*.douyin.com
+*.douyincdn.com
+*.douyinpic.com
+*.douyinstatic.com
+*.douyinvod.com
+*.iesdouyin.com
+*.toutiao.com
+*.toutiaocdn.com
+*.toutiaoimg.com
+*.volccdn.com
+
+; feishu 飞书
+*.anycross.com
+*.blmpb.com
+*.bytedancehermestest.com
+*.falconsending.com
+*.feishu-3rd-party-services.com
+*.feishu-boe.net
+*.feishu-pre.net
+*.feishu.net
+*.feishuapp-cdn.net
+*.feishuapp.com
+*.feishucdn.com
+*.feishudoc.com
+*.feishuhuiyi.com
+*.feishuimg-boe.com
+*.feishuimg-pre.com
+*.feishuimg.com
+*.feishukacdn.com
+*.feishumeetings.com
+*.feishuoffice.com
+*.feishuopenplatformrecord.com
+*.feishupkg.com
+*.feishuvc.com
+*.getfeishu.com
+*.getsays.com
+
+; CCTV 央视
+*.cctv.com
+*.cctvpic.com
+*.livechina.com
+
+; ctrip 携程
+*.ctrip.com
+
+; chinaz 站长网
+*.chinaz.com
+*.chinaz.net
+
+; cnki 知网
+*.cnki.net
+
+; coolapk 酷安
+*.coolapk.com
+*.coolapkmarket.com
+
+; csdn
+*.csdn.net
+
+; douban 豆瓣
+*.douban.com
+*.douban.fm
+*.doubanio.com
+
+; douyu 斗鱼
+*.douyu.com
+*.douyuscdn.com
+
+; github proxy 代理
+*.ghproxy.*
+*.gh-proxy.*
+*.sciproxy.com
+
+; gitee 码云
+*.gitee.com
+*.gitee.io
+
+; gwdang 购物党
+*.gwdang.com
+
+; huawei 华为
+*.dbankcdn.com
+*.hc-cdn.com
+*.hicloud.com
+*.hihonor.com
+*.huawei.com
+*.huaweicloud.com
+*.huaweishop.net
+*.hwccpc.com
+*.vmall.com
+*.vmallres.com
+
+; hupu 虎扑
+*.hupu.com
+
+; huxiu 虎嗅
+*.huxiu.com
+*.huxiucdn.com
+
+; huya 虎牙
+*.huya.com
+
+; ifanr 爱范儿
+*.coolbuy.com
+*.ifanr.com
+*.ifanr.in
+*.ifanrusercontent.com
+*.ifanrx.com
+*.minapp.com
+
+; iflytek 科大讯飞
+*.iflyink.com
+*.iflyrec.com
+*.iflytek.com
+
+; iqiyi 爱奇艺
+*.iqiyi.com
+
+; jianshu 简书
+*.jianshu.com
+*.jianshu.io
+*.jianshuapi.com
+
+; jd 京东
+*.360buy.com
+*.360buyimg.com
+*.jcloudcs.com
+*.jd.com
+*.jdcloud.com
+*.jdpay.com
+*.paipai.com
+
+; jianguoyun 坚果云
+*.jianguoyun.com
+
+; kuaishou 快手
+*.kuaishou.com
+*.yximgs.com
+
+; kugou 酷狗
+*.kugou.com
+*.kgimg.com
+
+; lanzou 兰奏云
+*.lanzou.com
+*.lanzoui.com
+*.lanzoux.com
+
+; lizhifm 荔枝FM
+*.lizhi.fm
+*.lizhi.io
+*.lizhifm.com
+
+; meituan 美团
+*.dianping.com
+*.dpfile.com
+*.maoyan.com
+*.meituan.com
+*.meituan.net
+*.mtyun.com
+*.neixin.cn
+*.sankuai.com
+
+; mgtv 湖南卫视 芒果TV
+*.hitv.com
+*.hunantv.com
+*.mgtv.com
+
+; mihoyo 米哈游
+*.mhystatic.com
+*.mihayo.com
+*.mihayou.com
+*.mihoyo.com
+*.mihoyocg.com
+*.mihoyogift.com
+*.mihoyomall.com
+*.miyoushe.com
+*.benghuai.com
+*.bh3.com
+*.bhsr.com
+*.themisweeps.com
+*.yuanshen.com
+*.juequling.com
+
+; netease 网易
+*.126.com
+*.126.net
+*.127.net
+*.163.com
+*.163yun.com
+*.huaban.com
+*.lofter.com
+*.netease.com
+*.ydstatic.com
+*.youdao.com
+
+; oppo 欢太
+*.allawnfs.com
+*.allawno.com
+*.allawntech.com
+*.coloros.com
+*.heytap.com
+*.heytapcs.com
+*.heytapdownload.com
+*.heytapimage.com
+*.heytapmobi.com
+*.oppo.com
+*.oppoer.me
+*.oppomobile.com
+
+; qcc 企查查
+*.qcc.com
+*.qichacha.com
+
+; pdd 拼多多
+*.pinduoduo.com
+*.yangkeduo.com
+
+; qidian 起点中文网
+*.qidian.com
+*.qdmm.com
+
+; qiniu 七牛
+*.qiniu.com
+*.qiniucdn.com
+*.qiniudn.com
+
+; sina 新浪
+*.leju.com
+*.miaopai.com
+*.sina.com
+*.sinaapp.com
+*.sinaimg.com
+*.weibo.com
+*.weibocdn.com
+*.xiaoka.tv
+
+; smzdm 什么值得买
+*.smzdm.com
+
+; sohu 搜狐
+*.go2map.com
+*.sogo.com
+*.sogou.com
+*.sogoucdn.com
+*.sohu.com
+*.sohucs.com
+*.sohuno.com
+*.sohurdc.com
+*.v-56.com
+
+; sspai 少数派
+*.sspai.com
+
+; synology 群晖
+*.synology.*
+*.diskstation.me
+*.1234.me
+*.myds.me
+*.dscloud.*
+*.dsmynas.*
+*.familvds.*
+
+; tencent 腾讯
+*.foxmail.com
+*.gtimg.com
+*.idqqimg.com
+*.igamecj.com
+*.myapp.com
+*.myqcloud.com
+*.qq.com
+*.qqmail.com
+*.qqurl.com
+*.smtcdns.com
+*.smtcdns.net
+*.sogou.com
+*.soso.com
+*.tencent-cloud.net
+*.tencent.com
+*.tencentmind.com
+*.tenpay.com
+*.wechat.com
+*.weixin.com
+*.weiyun.com
+
+; tianyancha 天眼查
+*.tianyancha.com
+
+; uisdc 优设
+*.uisdc.com
+
+; vip 唯品会
+*.appsimg.com
+*.appvipshop.com
+*.vip.com
+*.vipstatic.com
+
+; xiaomi 小米
+*.duokan.com
+*.mi-img.com
+*.mi.com
+*.miui.com
+*.miwifi.com
+*.xiaomi.com
+*.xiaomi.net
+*.xiaomicp.com
+
+; ximalaya 喜马拉雅
+*.ximalaya.com
+*.xmcdn.com
+
+; xunlei 迅雷
+*.00cdn.com
+*.88cdn.com
+*.kanimg.com
+*.kankan.com
+*.p2cdn.com
+*.sandai.net
+*.thundercdn.com
+*.xunlei.com
+
+; yy YY语音
+*.yy.com
+*.yystatic.com
+
+; zhihu 知乎
+*.zhihu.com
+*.zhimg.com
