@@ -27,8 +27,6 @@
 *.115img.com
 *.116cd.com
 *.116cd.net
-*.anxia.com
-*.sq.cc
 
 ; 17k 小说
 *.17k.com
@@ -139,7 +137,7 @@
 ; bank 银行
 *.ccb.com
 
-; bosszhipin boss 直聘
+; bosszhipin boss直聘
 *.bosszhipin.com
 
 ; bilibili 哔哩哔哩 B站
@@ -272,11 +270,8 @@
 *.jianshuapi.com
 
 ; jd 京东
-*.360buy.com
 *.360buyimg.com
-*.jcloudcs.com
 *.jd.com
-*.jdcloud.com
 *.jdpay.com
 *.paipai.com
 
@@ -343,20 +338,6 @@
 *.netease.com
 *.ydstatic.com
 *.youdao.com
-
-; oppo 欢太
-*.allawnfs.com
-*.allawno.com
-*.allawntech.com
-*.coloros.com
-*.heytap.com
-*.heytapcs.com
-*.heytapdownload.com
-*.heytapimage.com
-*.heytapmobi.com
-*.oppo.com
-*.oppoer.me
-*.oppomobile.com
 
 ; qcc 企查查
 *.qcc.com
