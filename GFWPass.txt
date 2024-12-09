@@ -291,7 +291,7 @@
 *.lanzou*.com
 *.lanrar.com
 *.lanosso.com
-*.woozoo.com
+*.woozooo.com
 
 ; lizhifm 荔枝FM
 *.lizhi.fm
