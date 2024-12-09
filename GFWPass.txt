@@ -287,9 +287,11 @@
 *.kgimg.com
 
 ; lanzou 兰奏云
-*.lanzou.com
-*.lanzoui.com
-*.lanzoux.com
+*.ilanzou.com
+*.lanzou*.com
+*.lanrar.com
+*.lanosso.com
+
 
 ; lizhifm 荔枝FM
 *.lizhi.fm
