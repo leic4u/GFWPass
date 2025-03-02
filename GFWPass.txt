@@ -261,6 +261,10 @@
 *.iflyrec.com
 *.iflytek.com
 
+; imgse 图床
+*.imgse.com
+*.ax1x.com
+
 ; iqiyi 爱奇艺
 *.iqiyi.com
 
