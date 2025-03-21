@@ -282,6 +282,9 @@
 ; jianguoyun 坚果云
 *.jianguoyun.com
 
+; js.design 即时设计
+*.js.design
+
 ; kuaishou 快手
 *.kuaishou.com
 *.yximgs.com
