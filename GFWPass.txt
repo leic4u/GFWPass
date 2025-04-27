@@ -146,6 +146,12 @@
 *.hdslb.com
 
 ; bytedance 字节跳动
+*.bytetos.com
+*.byteimg.com
+*.bytegoofy.com
+*.bytednsdoc.com
+*.bytefcdnrd.com
+*.bytedance.com
 *.douyin.com
 *.douyincdn.com
 *.douyinpic.com
@@ -156,6 +162,7 @@
 *.toutiaocdn.com
 *.toutiaoimg.com
 *.volccdn.com
+*.zijieapi.com
 
 ; feishu 飞书
 *.anycross.com
