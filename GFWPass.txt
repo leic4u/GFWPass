@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: ZeroOmega or SwitchyOmega >= 2.3.2
-; Update Date: 2025/03/21 09:21:32
+; Update Date: 2025/04/28 01:08:10
 
 ; 局域网 IP 不走代理
 10.*.*.*
