@@ -327,6 +327,9 @@
 *.hunantv.com
 *.mgtv.com
 
+; microsoft 微软
+*.msftconnecttest.com
+
 ; mihoyo 米哈游
 *.mhystatic.com
 *.mihayo.com
