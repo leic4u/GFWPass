@@ -152,6 +152,7 @@
 *.bytednsdoc.com
 *.bytefcdnrd.com
 *.bytedance.com
+*.byteeffecttos.com
 *.douyin.com
 *.douyincdn.com
 *.douyinpic.com
