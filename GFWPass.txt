@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: ZeroOmega or SwitchyOmega >= 2.3.2
-; Update Date: 2026/04/16 22:47:55
+; Update Date: 2026/04/16 23:41:54
 
 ; 局域网 IP 不走代理
 10.*.*.*
@@ -20,13 +20,16 @@
 *.migucloud.com
 *.miguvideo.com
 
-; 115
+; 115 网盘
 *.115.com
 *.115cdn.com
 *.115cdn.net
 *.115img.com
 *.116cd.com
 *.116cd.net
+
+; 123pan 123网盘
+*.123pan.com
 
 ; 17k 小说
 *.17k.com
@@ -36,6 +39,7 @@
 *.360kuai.com
 *.360safe.com
 *.dhrest.com
+*.dnspao.com
 *.qhres.com
 *.qhstatic.com
 *.qhupdate.com
@@ -79,6 +83,7 @@
 *.alicloudapi.com
 *.alidns.com
 *.alikunlun.com
+*.alikunlun.net
 *.aliyun-iot-share.com
 *.aliyun.com
 *.aliyuncs.com
@@ -130,9 +135,14 @@
 *.baiduyundns.com
 *.baiduyundns.net
 *.baike.com
+*.bcedns.com
+*.bcedns.net
 *.bdimg.com
 *.bdstatic.com
+*.bdydns.com
+*.bdydns.net
 *.tieba.com
+*.yunjiasu-cdn.net
 
 ; bank 银行
 *.ccb.com
@@ -144,6 +154,7 @@
 *.bilibili.com
 *.biligame.com
 *.hdslb.com
+*.hdslb.net
 
 ; bytedance 字节跳动
 *.bytetos.com
@@ -274,7 +285,15 @@
 *.ax1x.com
 
 ; iqiyi 爱奇艺
+*.71.am
+*.71edge.com
 *.iqiyi.com
+*.iqiyipic.com
+*.pps.tv
+*.ppsimg.com
+*.qiyi.com
+*.qy.net
+*.qiyipic.com
 *.qy.net
 
 ; jianshu 简书
@@ -373,9 +392,12 @@
 *.qdmm.com
 
 ; qiniu 七牛
+*.clouddn.com
+*.qbox.me
 *.qiniu.com
 *.qiniucdn.com
 *.qiniudn.com
+*.qiniudns.com
 
 ; sina 新浪
 *.leju.com
