@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: ZeroOmega or SwitchyOmega >= 2.3.2
-; Update Date: 2026/04/16 23:41:54
+; Update Date: 2026/04/17 22:33:52
 
 ; 局域网 IP 不走代理
 10.*.*.*
@@ -157,18 +157,22 @@
 *.hdslb.net
 
 ; bytedance 字节跳动
-*.bytetos.com
-*.byteimg.com
-*.bytegoofy.com
-*.bytednsdoc.com
-*.bytefcdnrd.com
 *.bytedance.com
+*.bytednsdoc.com
 *.byteeffecttos.com
+*.bytefcdnrd.com
+*.bytegoofy.com
+*.byteimg.com
+*.bytescm.com
+*.bytetcc.com
+*.bytetos.com
 *.douyin.com
 *.douyincdn.com
+*.douyinliving.com
 *.douyinpic.com
 *.douyinstatic.com
 *.douyinvod.com
+*.ibytedapm.com
 *.iesdouyin.com
 *.toutiao.com
 *.toutiaocdn.com
